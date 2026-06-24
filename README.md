@@ -5,7 +5,7 @@
 ### 核心项目
 
 **BankDataViz** — 银行年报全链路智能解析平台
-全栈自研（Vue3 + Flask + FAISS），12家银行2020-2024年报实战，482+ commits。含表格检测(YOLOv8)→OCR→LLM重构→会计勾稽→RAG问答→Agent编排全链路。
+全栈自研（Vue3 + Flask + FAISS），10+家银行2020-2024年报实战，482+ commits。含表格检测(YOLOv8)→OCR→LLM重构→会计勾稽→RAG问答→Agent编排全链路。
 
 **harnessloop** — 零依赖 Agent 编排框架 (PyPI已发布)
 支持 Pipeline/ReAct 双模式 + Loop Engineering（终止/重试/HITL），MIT开源。

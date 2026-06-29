@@ -4,7 +4,7 @@
 
 ### 核心项目
 
-RAGFlow (开源贡献) — 改进其Wikipedia工具的错误处理机制，相关PR (#16207) 已被项目合并。
+RAGFlow (开源贡献) — 改进其Wikipedia工具的错误处理机制，相关PR (#16200，#16207) 已被项目合并。
 
 **BankDataViz** — 银行年报全链路智能解析平台
 全栈自研（Vue3 + Flask + FAISS），10+家银行2020-2024年报实战，482+ commits。含表格检测(YOLOv8)→OCR→LLM重构→会计勾稽→RAG问答→Agent编排全链路。
